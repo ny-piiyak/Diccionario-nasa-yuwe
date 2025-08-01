@@ -10,7 +10,7 @@ Este es un diccionario comunitario digital para el idioma Nasa Yuwe (dialecto wi
 - `index.html`: Interfaz web
 - `diccionario.js`: Lógica de búsqueda
 - `data/palabras.json`: Base de datos de palabras
-- `index.html` Prueba del traductor
+- `indice.html` Prueba del traductor
 
 ## 🤝 Cómo contribuir
 1. Haz un fork del proyecto.
