@@ -18,4 +18,4 @@ Este es un diccionario comunitario digital para el idioma Nasa Yuwe (dialecto wi
 3. Haz un pull request.
 
 ## ✨ Licencia
-[MIT] o [Creative Commons BY-NC-SA] (según preferencia intercultural y comunitaria)
+Ideas: [MIT] o [Creative Commons BY-NC-SA]
